@@ -1,1 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/--Uxz1rz)
+## Cats Save the World
+
+### 고양이가 세상을 구한다
+
+The Cat API를 활용하여 랜덤으로 고양이 사진을 가져옵니다.
+
+사진 속 고양이가 마음에 든다면, 좋아요를 눌러 고양이를 데려갈 수 있습니다.
+
+데려온 고양이는 갤러리 형태로 확인할 수 있습니다.
+
+나만의 고양이 큐레이션을 만들어보세요!
